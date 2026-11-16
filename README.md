@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/typesense-2?utm_medium=integration&utm_source=button&utm_campaign=typesense)
+
 # Typesense on Railway
 
 This repo is the source of the **Typesense** template on Railway. It deploys [Typesense](https://typesense.org) **30.2**, an open-source, typo-tolerant search engine, as a single service built from this repo's `Dockerfile`.
